@@ -115,7 +115,7 @@ flowchart LR
 
 ## 📂 Project Structure
 ```
-kush.android.wishlistapp
+sc.android.wishlistapp
 │
 ├── data/
 │   ├── Wish.kt              # Entity
